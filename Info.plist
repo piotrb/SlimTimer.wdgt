@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AllowInternetPlugins</key>
+	<true/>
+	<key>AllowJava</key>
+	<true/>
+	<key>AllowNetworkAccess</key>
+	<true/>
+	<key>AllowSystem</key>
+	<true/>
+	<key>BackwardsCompatibleClassLookup</key>
+	<true/>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleDisplayName</key>
+	<string>SlimTimer</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.piotr.widget.SlimTimer</string>
+	<key>CFBundleName</key>
+	<string>SlimTimer</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>0.6</string>
+	<key>CloseBoxInsetX</key>
+	<integer>13</integer>
+	<key>CloseBoxInsetY</key>
+	<integer>13</integer>
+	<key>Height</key>
+	<integer>518</integer>
+	<key>MainHTML</key>
+	<string>SlimTimer.html</string>
+	<key>Width</key>
+	<integer>236</integer>
+</dict>
+</plist>
